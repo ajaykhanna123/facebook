@@ -127,7 +127,16 @@
 
 .font-mn{
   font-size:14px;
-  display:inline;
+  display:inline-block;
+  color:blue !important;
+  font-weight:bold;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.font-m{
+  font-size:12px;
+  display:inline-block;
+  text-align: justify;
   color:blue !important;
   font-weight:bold;
   margin-left: 5px;
